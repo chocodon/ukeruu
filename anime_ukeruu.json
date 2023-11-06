@@ -11,7 +11,7 @@
             "backup_ads_interstitial": "",
             "rewarded_ad_id": "",
             "interstitial_counter": "10",
-            "maintenance": "1",
+            "maintenance": "0",
             "status_app": "0",
             "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.dramaflix",
             "facebook": "",
@@ -19,7 +19,7 @@
             "other_app": "https://play.google.com/store/apps/details?id=com.GoAsian.Dramas",
             "base_url": "https://gogoanimehd.io/",
             "current_version": "1.0.0",
-            "blogger_url": "https://animeukeruu.blogspot.com/?m=1"
+            "blogger_url": ""
         }
     ]
 }

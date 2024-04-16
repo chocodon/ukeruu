@@ -11,14 +11,14 @@
             "backup_ads_interstitial": "",
             "rewarded_ad_id": "",
             "interstitial_counter": "10",
-            "maintenance": "1",
+            "maintenance": "0",
             "status_app": "1",
             "link_redirect": "https://play.google.com/store/apps/details?id=com.flawlessx.anime_ukeruu&pli=1",
             "facebook": "",
             "instagram": "",
             "other_app": "",
             "base_url": "https://gogoanime3.co/",
-            "current_version": "1.0.4",
+            "current_version": "1.0.5",
             "blogger_url": "https://animeukeruu.blogspot.com/"
         }
     ]
